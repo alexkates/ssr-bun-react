@@ -1,4 +1,4 @@
-# An example of how to use bun to SSR React components
+# An example of how to use [Bun](https://bun.sh) to server-side render (SSR) React components
 
 To install dependencies:
 
